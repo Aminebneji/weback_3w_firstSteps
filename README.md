@@ -1,15 +1,4 @@
-# 🚀 Welcome to your new awesome project!
+### probleme: 
 
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+je n'ai pas réussi a trouver de loader adéquat ou bien comment l'articuler pour faire en sorte que mon fichier css soit build et fonctionne 
+avec le reste de mon application 

@@ -1,5 +1,6 @@
 import flowersJson from './flowers.json'; 
 import '../css/index.css'; 
+
 function importAllImages() {
   const images = {};
 
